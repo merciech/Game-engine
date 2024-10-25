@@ -1,3 +1,5 @@
+Réalisé avec : Pierre BERNARD, Antonia IVANOVA, Abdel-Kader EL HOUSSAMI, Dila MEMIL et [Arthur MILLET](https://github.com/milletarthur)
+
 Compilation sous Eclipse : 
 
 Pour réaliser ce projet nous avons utilisé Eclipse avec les configurations que nous avions déjà utilisés dans POO.
